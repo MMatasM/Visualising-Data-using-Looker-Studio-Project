@@ -1,4 +1,4 @@
-# Tableau/Power BI Sprint 📚
+# Looker Studio Sprint
 
 Description of My Project
 In this project, I undertook the task of refining an existing dashboard for the "AdventureWorks" company data, focusing on enhancing its interactivity, visual appeal, and clarity. My colleague's feedback on the initial dashboard provided a valuable direction for improvements, highlighting the need for clearer metrics, dimensions, and better graph formatting.
